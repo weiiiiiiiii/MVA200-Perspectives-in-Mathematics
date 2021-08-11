@@ -1,4 +1,5 @@
 # MVA200-Perspectives-in-Mathematics
+Mathematics history
 
 - First set of slides `1Persp.pdf`,  about Euclidean, non-Euclidean and Riemannian geometry.
 
